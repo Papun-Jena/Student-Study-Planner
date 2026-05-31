@@ -1,17 +1,21 @@
 # Student-Study-Planner
 
-
-A C++ console application that helps students manage study tasks, track progress, and organize exam preparation.
+A console-based Study Planner developed in C++ to help students organize study tasks, track completion status, and monitor academic progress efficiently.
 
 ## Features
-- Add study tasks
-- View tasks
-- Mark tasks as completed
-- Progress tracking
-- File handling for data storage
 
-## Technologies
+- Add new study tasks
+- View all saved tasks
+- Mark tasks as completed
+- Delete unwanted tasks
+- Track overall study progress
+- Store task data using file handling
+- User-friendly menu-driven interface
+
+## Technologies Used
+
 - C++
-- OOP
-- STL Vector
+- Object-Oriented Programming (OOP)
 - File Handling
+- Arrays
+- Functions
